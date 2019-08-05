@@ -14,16 +14,24 @@ Lab1 and Lab8 is not included in this repository
 3. lab04
 - 
 4. lab05
-- 
+- Timing attack on HMAC's equality test
+- Simple AES cache timing attack
+- Realistic AES cache timing attack
 5. lab06
-- 
+- Encrypt then MAC
+- SIV authenticated encryption and decrpytion
+- AES collision timing attack
 6. lab07
-- 
-7. lab08
-- 
-8. lab09
-- 
-9. lab10
-- 
-10. lab11
-- 
+- Breaking RSA keys with poor randomness
+- Breaking small RSA keys
+7. lab09
+- Breaking ECDSA with poor randomness
+- Symmetric-key ratchet system
+- Diffie-Hellman ratchet system
+8. lab10
+- Onion hashing
+- Parsing shadow file to crack passwords
+- Building sponge function from AES
+9. lab11
+- Difference propagation table
+- Simple garbled circuit
