@@ -12,7 +12,9 @@ Lab1 and Lab8 is not included in this repository
 - Meet in the middle Attack
 - Implementing CBC-MAC
 3. lab04
-- 
+- CBC Mode encryption and decryption
+- CTR Mode encryption and decryption
+- Break CBC-Mac when used as a hash function
 4. lab05
 - Timing attack on HMAC's equality test
 - Simple AES cache timing attack
